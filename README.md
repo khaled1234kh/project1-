@@ -23,7 +23,6 @@ This project showcases real-time **audio playback**, **GUI-based control**, and 
 
 ## 🌐 Overview
 
-<img width="100%" alt="Music Player Interface" src="https://github.com/user-attachments/assets/sample-musicplayer-ui.png" />
 
 This project simulates a **basic desktop audio player** capable of managing and playing `.mp3` files through a visually intuitive Java Swing interface. The player supports core features such as **Play**, **Pause**, **Resume**, **Stop**, and **Playlist Management**.
 
@@ -33,8 +32,7 @@ Built entirely in Java, this project helped solidify key skills in **object-orie
 
 ## 🖼️ Player UI Preview
 
-<img width="2559" height="1439" alt="Screenshot 2025-07-19 154242" src="https://github.com/user-attachments/assets/3c7e68e0-1ea2-4284-af6e-dd2c346eaf37" />
-
+<img width="2559" height="1439" alt="Screenshot 2025-07-19 154242" src="https://github.com/user-attachments/assets/2a8566b9-9eb2-40c3-9365-5da023770843" />
 
 
 ![Player Preview](https://github.com/user-attachments/assets/preview-musicplayer.gif)
@@ -125,18 +123,16 @@ MusicPlayer.java
 * Displays them via a `JList`
 * Keeps track of current index and playback status
 
-## 🏆 Personal Achievement
+---
 
-This project was **fully self-developed** and led to a **Top 5 national ranking** in the RoboCup Junior Egypt Rescue Simulation Maze.
+## 🏆 Personal Achievements
 
-It was also recognized as **one of the best projects submitted**, impressing judges and peers alike. As a result, it received **extra points** for technical excellence, innovation, and execution.
+This solo-built project provided:
 
-It demonstrates:
-
-* Complete control system design expertise
-* Strong robotics and AI implementation skills
-* Real-time problem-solving in constrained, dynamic environments
-
+* Hands-on experience with **Java Swing UI development**
+* Solid understanding of **audio streaming and thread management**
+* Integration of external libraries (`JLayer`) into a structured Java application
+* A ready-to-use desktop tool for audio playback
 
 ---
 
