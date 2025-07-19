@@ -1,6 +1,6 @@
 # 🎵 Java-Music-Player
 
-A clean, modular **MP3 music player** developed using **Java Swing** and the **JLayer** audio library.
+A clean, modular **WAV music player** developed using **Java Swing** and the **JLayer** audio library.
 
 This project showcases real-time **audio playback**, **GUI-based control**, and **multi-song playlist functionality** — ideal for beginners learning GUI design and audio handling in Java.
 
@@ -24,7 +24,7 @@ This project showcases real-time **audio playback**, **GUI-based control**, and 
 ## 🌐 Overview
 
 
-This project simulates a **basic desktop audio player** capable of managing and playing `.mp3` files through a visually intuitive Java Swing interface. The player supports core features such as **Play**, **Pause**, **Resume**, **Stop**, and **Playlist Management**.
+This project simulates a **basic desktop audio player** capable of managing and playing `.wav` files through a visually intuitive Java Swing interface. The player supports core features such as **Play**, **Pause**, **Resume**, **Stop**, and **Playlist Management**.
 
 Built entirely in Java, this project helped solidify key skills in **object-oriented design**, **multithreading**, and **event-driven programming**.
 
@@ -43,7 +43,7 @@ Built entirely in Java, this project helped solidify key skills in **object-orie
 
 ### 🎧 Core Playback
 
-* **Play, Pause, Resume, Stop** functions for `.mp3` files
+* **Play, Pause, Resume, Stop** functions for `.wav` files
 * Threaded audio playback using **JLayer's Player API**
 
 ### 📂 Playlist Handling
